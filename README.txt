@@ -14,7 +14,7 @@ Included pages:
 
 QUOTE FORM / SMS
 All quote forms prepare a text message addressed to:
-0451 756 048
+0455 048 756
 
 Important: Web browsers do not allow a normal static website to silently send an SMS
 from a visitor's phone. When the customer presses the quote button, their SMS app opens
@@ -37,7 +37,7 @@ PUBLISH WITH NETLIFY
 
 Business:
 Pakenham Car Removal
-0451 756 048
+0455 048 756
 0481 823 119
 14 Drovers Place, Pakenham VIC
 
@@ -48,7 +48,7 @@ AUDIT UPDATES ADDED
 - Google Map for 14 Drovers Place, Pakenham
 - Clear 4-step process
 - Stronger cash/free-removal price anchor
-- Primary CTA simplified to 0451 756 048
+- Primary CTA simplified to 0455 048 756
 - Email added across the website: Pakenhamcarremoval@gmail.com
 - Quote forms submit to Pakenhamcarremoval@gmail.com using FormSubmit
 
@@ -59,7 +59,7 @@ submissions will be delivered to that inbox.
 
 SMS
 The "Prefer SMS? Text this quote" button prepares a text to both:
-0451 756 048 and 0481 823 119.
+0455 048 756 and 0481 823 119.
 Multiple-recipient SMS links are device-dependent. The customer still needs to press Send.
 Automatic SMS delivery to both numbers requires a backend SMS provider such as Twilio
 or MessageMedia.

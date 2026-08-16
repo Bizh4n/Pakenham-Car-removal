@@ -37,7 +37,7 @@ Pickup suburb: ${suburb}`;
 
     // Multiple-recipient SMS support varies by device/browser.
     // On supported phones this addresses both business numbers.
-    const recipients = '0451756048,0481823119';
+    const recipients = '0455048756,0481823119';
     const isApple = /iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent);
     const sep = isApple ? '&' : '?';
     window.location.href = `sms:${recipients}${sep}body=${encodeURIComponent(body)}`;
